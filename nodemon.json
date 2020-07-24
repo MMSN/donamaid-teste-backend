@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "testeDonamaid",
+        "MONGO_PASSWORD": "pelotas",
+        "MONGO_DEFAULT_DATABASE": "testedonamaid"
+    }
+}
